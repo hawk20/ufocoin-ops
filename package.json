@@ -1,22 +1,22 @@
 {
-  "name": "bitcoin-ops",
+  "name": "ufocoin-ops",
   "version": "1.4.0",
-  "description": "bitcoin OP codes",
-  "author": "Daniel Cousens",
+  "description": "ufocoin OP codes",
+  "author": "hawk20",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitcoinjs/bitcoin-ops.git"
+    "url": "https://github.com/hawk20/ufocoin-ops.git"
   },
   "bugs": {
-    "url": "https://github.com/bitcoinjs/bitcoin-ops/issues"
+    "url": "https://github.com/hawk20/ufocoin-ops/issues"
   },
-  "homepage": "https://github.com/bitcoinjs/bitcoin-ops",
+  "homepage": "https://github.com/hawk20/ufocoin-ops",
   "keywords": [
     "opcodes",
     "ops",
-    "bitcoin-ops",
-    "bitcoin"
+    "ufocoin-ops",
+    "ufocoin"
   ],
   "files": [
     "index.json",
